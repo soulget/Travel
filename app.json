@@ -20,17 +20,21 @@
     "selectedColor": "#4abdcc",
     "borderStyle": "white",
     "backgroundColor": "#fff",
-    "list": [{
-      "pagePath": "pages/index/index",
-      "iconPath": "images/index_normal.png",
-      "selectedIconPath": "images/index_pressed.png",
-      "text": "推荐"
-    }, {
-      "pagePath": "pages/explore/explore",
-      "iconPath": "images/explore_normal.png",
-      "selectedIconPath": "images/explore_pressed.png",
-      "text": "发现"
-    }]
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/index_normal.png",
+        "selectedIconPath": "images/index_pressed.png",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/explore/explore",
+        "iconPath": "images/explore_normal.png",
+        "selectedIconPath": "images/explore_pressed.png",
+        "text": "发现"
+      }
+    ]
   },
-  "debug": true
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
 }
